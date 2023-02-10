@@ -1,6 +1,7 @@
 enablePlugins(ScalaJSPlugin)
 
 name := "grids-frontend-web"
+scalaVersion := "2.13.10"
 
 scalaJSUseMainModuleInitializer := true
 
